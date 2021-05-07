@@ -8,3 +8,6 @@ In this python notebook you will discover what seeding is and how seeding works 
 To run the notebook on bynder just click the bellow link: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teokem/project-work-2021-maximisu90/HEAD)
+
+The project now has a DOI from zenodo 
+[![DOI](https://zenodo.org/badge/351443801.svg)](https://zenodo.org/badge/latestdoi/351443801)
