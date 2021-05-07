@@ -11,3 +11,5 @@ To run the notebook on bynder just click the bellow link:
 
 The project now has a DOI from zenodo 
 [![DOI](https://zenodo.org/badge/351443801.svg)](https://zenodo.org/badge/latestdoi/351443801)
+
+https://zenodo.org/badge/latestdoi/351443801
