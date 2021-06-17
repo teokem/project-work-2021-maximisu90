@@ -5,14 +5,10 @@ dependencies:
   - python=3
   - matplotlib
   - bokeh
-  - ipywidgets
+  
   - notebook
   - numpy
-  - openpyxl
+ 
   - pandas
-  - pip
-  - scipy
-  - seaborn
-  - pip
-  - sympy
+  - pip  
   
